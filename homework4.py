@@ -1,4 +1,4 @@
-my_string = 'Напишите произвольное число символов:'
+my_string = input('Напишите произвольное число символов: ')
 print(len(my_string))
 print(my_string.upper())
 print(my_string.lower())
